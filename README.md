@@ -1,1 +1,1 @@
-# git-branching
+Git Branching for Agency Week
